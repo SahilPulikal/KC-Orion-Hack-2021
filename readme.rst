@@ -1,4 +1,8 @@
-# KC-Orion-Hack-2021
+*******************
+KC-Orion-Hack-2021
+*******************
+Alumni Tracking System created to track & maintain a record of Alumni of a college.
+This project was made during "Orion Hackathon 2021" conducted by KC college of Engineering, Thane.
 
 *******************
 Admin Credentials
@@ -12,7 +16,7 @@ Steps to run this project.
 *******************
 1. Download this project and unzip this project. 
 2. Make one folder named as alumni and move it to xampp/htdocs/
-3. Import database alumni.sql located in database folder in phpMyAdmin.
+3. Import database (alumni.sql located in database folder) in phpMyAdmin.
 4. Go to:- http://localhost/alumni to view the project.
 
 *******************
