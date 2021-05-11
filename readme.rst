@@ -1,7 +1,7 @@
 *******************
 Admin Credentials
 *******************
-1. username:- admin@gmail.com
+1. username:- admin@kccemsr.edu.in
 2. password:- admin@1234
 
 
@@ -9,9 +9,9 @@ Admin Credentials
 Steps to run this project.
 *******************
 1. Download this project and unzip this project. 
-2. Make one folder name it as alumni
-3. Add database alumni.sql located in database folder.
-4. Vist this link:- http://localhost/alumni to see results.
+2. Make one folder named as alumni and move it to xampp/htdocs/
+3. Import database alumni.sql located in database folder in phpMyAdmin.
+4. Go to:- http://localhost/alumni to view the project.
 
 *******************
 Project Features
